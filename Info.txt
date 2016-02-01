@@ -1,0 +1,4 @@
+This program was conceptualized in 30 minutes and programmed in 1.5 hours at "DataHacks 2016", a mini hackathon.
+
+The purpose is to observe your keyboard typing patterns, and by analyzing the frequencies of the letters you use along with the time it takes for you to type each letter, make you your optimal keyboard layout.
+
